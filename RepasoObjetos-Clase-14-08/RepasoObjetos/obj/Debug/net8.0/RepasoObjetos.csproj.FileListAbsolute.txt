@@ -1,0 +1,14 @@
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\bin\Debug\net8.0\RepasoObjetos.exe
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\bin\Debug\net8.0\RepasoObjetos.deps.json
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\bin\Debug\net8.0\RepasoObjetos.runtimeconfig.json
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\bin\Debug\net8.0\RepasoObjetos.dll
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\bin\Debug\net8.0\RepasoObjetos.pdb
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.AssemblyInfoInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.AssemblyInfo.cs
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.dll
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\refint\RepasoObjetos.dll
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.pdb
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\RepasoObjetos.genruntimeconfig.cache
+C:\Users\ignaa\Documents\facu\TUP\Prog. II\Proyectos\RepasoObjetos\RepasoObjetos\obj\Debug\net8.0\ref\RepasoObjetos.dll
