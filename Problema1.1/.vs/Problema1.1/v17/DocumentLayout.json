@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\interfaces\\coleccionabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\interfaces\\coleccionabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\clases\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\interfaces\\coleccionabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\interfaces\\coleccionabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\interfaces\\icoleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.1\\problema1.1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B862D47-3472-4926-9A70-368AB5C62E98}|Problema1.1\\Problema1.1.csproj|solutionrelative:problema1.1\\clases\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Pila.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Clases\\Pila.cs",
               "RelativeDocumentMoniker": "Problema1.1\\Clases\\Pila.cs",
@@ -46,49 +46,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cola.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Clases\\Cola.cs",
               "RelativeDocumentMoniker": "Problema1.1\\Clases\\Cola.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Clases\\Cola.cs",
               "RelativeToolTip": "Problema1.1\\Clases\\Cola.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T18:29:10.511Z"
+              "WhenOpened": "2024-08-20T18:29:10.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ColeccionAbstracta.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Interfaces\\ColeccionAbstracta.cs",
               "RelativeDocumentMoniker": "Problema1.1\\Interfaces\\ColeccionAbstracta.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Interfaces\\ColeccionAbstracta.cs",
               "RelativeToolTip": "Problema1.1\\Interfaces\\ColeccionAbstracta.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA6wCkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:23:33.248Z"
+              "WhenOpened": "2024-08-20T17:23:33.248Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "IColeccion.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Interfaces\\IColeccion.cs",
               "RelativeDocumentMoniker": "Problema1.1\\Interfaces\\IColeccion.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Interfaces\\IColeccion.cs",
               "RelativeToolTip": "Problema1.1\\Interfaces\\IColeccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:01:54.195Z"
+              "WhenOpened": "2024-08-20T17:01:54.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Program.cs",
               "RelativeDocumentMoniker": "Problema1.1\\Program.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.1\\Problema1.1\\Program.cs",
               "RelativeToolTip": "Problema1.1\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBoAAAAkAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T16:59:50.575Z",
               "EditorCaption": ""

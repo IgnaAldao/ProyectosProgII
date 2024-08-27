@@ -31,3 +31,5 @@ Console.WriteLine(cola.primero());
 Console.WriteLine(cola.extraer());
 
 Console.WriteLine(cola.extraer());
+
+Console.WriteLine(cola.mostrarElementos());

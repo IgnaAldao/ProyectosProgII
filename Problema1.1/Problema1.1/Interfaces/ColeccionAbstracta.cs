@@ -50,5 +50,16 @@ namespace Problema1._1.Interfaces
             
             return e;
         }
+
+        public string mostrarElementos()
+        {
+            string cadena = "";
+            foreach (object o in array)
+            {
+                if (o != null)
+                cadena = cadena + "\n" + o.ToString();
+            }
+            return cadena;
+        }
     }
 }

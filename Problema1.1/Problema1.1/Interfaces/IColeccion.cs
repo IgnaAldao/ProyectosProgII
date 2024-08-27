@@ -12,6 +12,7 @@ namespace Problema1._1.Interfaces
         object extraer();
         object primero();
         bool anadir(object elemento);
+        string mostrarElementos();
 
     }
 }
