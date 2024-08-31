@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\productrepositoryado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\data\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\data\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\repositoryexample\\repositoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64D810B-E938-4E9B-9AB8-8172F5C7990F}|RepositoryExample\\RepositoryExample.csproj|solutionrelative:repositoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,46 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Data\\DataHelper.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Data\\DataHelper.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Data\\DataHelper.cs",
               "RelativeToolTip": "RepositoryExample\\Data\\DataHelper.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAANAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T19:45:29.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductRepositoryADO.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Data\\ProductRepositoryADO.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Data\\ProductRepositoryADO.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Data\\ProductRepositoryADO.cs",
               "RelativeToolTip": "RepositoryExample\\Data\\ProductRepositoryADO.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAuwCMAAAAxAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwCEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T17:48:43.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Domain\\Product.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Domain\\Product.cs",
               "RelativeToolTip": "RepositoryExample\\Domain\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:37:43.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:37:43.973Z"
             },
             {
               "$type": "Document",
@@ -81,12 +80,11 @@
               "RelativeToolTip": "RepositoryExample\\Data\\IProductoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:33:38.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:33:38.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\RepositoryExample\\RepositoryExample\\Program.cs",
               "RelativeDocumentMoniker": "RepositoryExample\\Program.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "RepositoryExample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:28:36.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:28:36.629Z"
             }
           ]
         }

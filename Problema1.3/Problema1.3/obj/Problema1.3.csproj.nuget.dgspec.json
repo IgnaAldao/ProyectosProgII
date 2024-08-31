@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj": {}
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj": {
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj",
+        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj",
         "projectName": "Problema1.3",
-        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj",
+        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Problema1.3.csproj",
         "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\obj\\",
+        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

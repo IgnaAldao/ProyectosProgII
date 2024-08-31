@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\",
+  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\prog. ii\\proyectos\\problema1.3\\problema1.3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\prog. ii\\proyectos\\problema1.3\\problema1.3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.3\\problema1.3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\prog. ii\\proyectos\\problema1.3\\problema1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.3\\problema1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\prog. ii\\proyectos\\problema1.3\\problema1.3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.3\\problema1.3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.3\\problema1.3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\prog. ii\\proyectos\\problema1.3\\problema1.3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\problema1.3\\problema1.3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CBF70C-40AB-4F1F-A680-DBEFE313C926}|Problema1.3\\Problema1.3.csproj|solutionrelative:problema1.3\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Pack.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Pack.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Pack.cs",
               "RelativeDocumentMoniker": "Problema1.3\\Pack.cs",
-              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Pack.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Pack.cs",
               "RelativeToolTip": "Problema1.3\\Pack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T19:38:05.202Z"
+              "WhenOpened": "2024-08-14T19:38:05.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Suelto.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Suelto.cs",
               "RelativeDocumentMoniker": "Problema1.3\\Suelto.cs",
-              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Suelto.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Suelto.cs",
               "RelativeToolTip": "Problema1.3\\Suelto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T19:35:56.489Z"
+              "WhenOpened": "2024-08-14T19:35:56.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Producto.cs",
               "RelativeDocumentMoniker": "Problema1.3\\Producto.cs",
-              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Producto.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Producto.cs",
               "RelativeToolTip": "Problema1.3\\Producto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IPrecio.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\IPrecio.cs",
               "RelativeDocumentMoniker": "Problema1.3\\IPrecio.cs",
-              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\IPrecio.cs",
               "RelativeToolTip": "Problema1.3\\IPrecio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Program.cs",
               "RelativeDocumentMoniker": "Problema1.3\\Program.cs",
-              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\Prog. II\\Proyectos\\Problema1.3\\Problema1.3\\Program.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Problema1.3\\Problema1.3\\Program.cs",
               "RelativeToolTip": "Problema1.3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

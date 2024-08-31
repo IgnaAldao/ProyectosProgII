@@ -50,5 +50,30 @@ namespace RepositoryExample.Data
             return t;
         }
 
+        public int ExecuteSPDML(string sp, List<ParameterSQL>? parametros)
+        {
+            int rows;
+            try
+            {
+                _connection.Open();
+                var cmd = new SqlCommand(sp, _connection);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                if (parametros != null)
+                {
+                    foreach (var param in parametros)
+                        cmd.Parameters.AddWithValue(param.Name, param.Value);
+                }
+
+                rows = cmd.ExecuteNonQuery();
+                _connection.Close();
+            }
+            catch (SqlException)
+            {
+                rows = 0;
+            }
+
+            return rows;
+        }
+
     }
 }
