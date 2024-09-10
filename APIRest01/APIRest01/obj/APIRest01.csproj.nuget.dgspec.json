@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\Practica01.csproj": {}
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\APIRest01\\APIRest01\\APIRest01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\Practica01.csproj": {
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\APIRest01\\APIRest01\\APIRest01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\Practica01.csproj",
-        "projectName": "Practica01",
-        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\Practica01.csproj",
+        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\APIRest01\\APIRest01\\APIRest01.csproj",
+        "projectName": "APIRest01",
+        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\APIRest01\\APIRest01\\APIRest01.csproj",
         "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\obj\\",
+        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\APIRest01\\APIRest01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,9 +46,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "System.Data.SqlClient": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[4.8.6, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
@@ -63,6 +63,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

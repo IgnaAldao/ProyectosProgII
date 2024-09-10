@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Practica01")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b924989bae07fd07940a299232cfa35cdc27489d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Practica01")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Practica01")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Swashbuckle.AspNetCore.SwaggerGen")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
