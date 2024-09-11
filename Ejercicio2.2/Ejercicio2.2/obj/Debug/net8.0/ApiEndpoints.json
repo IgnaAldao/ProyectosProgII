@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Ejercicio2._2.Controllers.Cashcontroller",
+    "Method": "Post",
+    "RelativePath": "api/Cash",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "moneda",
+        "Type": "Ejercicio2._2.Models.Moneda",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ejercicio2._2.Controllers.Cashcontroller",
+    "Method": "Get",
+    "RelativePath": "api/Cash",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ejercicio2._2.Controllers.Cashcontroller",
+    "Method": "Get",
+    "RelativePath": "api/Cash/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

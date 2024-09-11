@@ -43,7 +43,8 @@
               "ViewState": "AQIAABsAAAAAAAAAAAAqwCMAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T19:30:29.104Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,7 +56,8 @@
               "RelativeToolTip": "Practica01\\Servicios\\FacturaServices.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAiwCQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:16:09.741Z"
+              "WhenOpened": "2024-08-31T19:16:09.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -67,7 +69,8 @@
               "RelativeToolTip": "Practica01\\Datos\\FormaPagoRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwBIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T18:02:16.626Z"
+              "WhenOpened": "2024-08-28T18:02:16.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +82,8 @@
               "RelativeToolTip": "Practica01\\Datos\\FacturaRepositoryADO.cs",
               "ViewState": "AQIAAHkAAAAAAAAAAAAAAIcAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T17:22:30.301Z"
+              "WhenOpened": "2024-08-28T17:22:30.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,7 +93,7 @@
               "RelativeDocumentMoniker": "Practica01\\Program.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practica01\\Practica01\\Program.cs",
               "RelativeToolTip": "Practica01\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T16:06:12.388Z",
               "EditorCaption": ""
