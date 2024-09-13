@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ProduccionBack",
+    "\\ProduccionBack\\Data",
+    "\\ProduccionBack\\Services",
+    "\\ProduccionWebApi",
+    "\\ProduccionWebApi\\Controllers"
+  ],
+  "SelectedNode": "\\ProduccionWebApi\\Controllers\\OrdenProduccionController.cs",
+  "PreviewInSolutionExplorer": false
+}
