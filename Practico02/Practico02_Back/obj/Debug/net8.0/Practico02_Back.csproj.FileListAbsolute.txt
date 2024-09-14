@@ -1,0 +1,13 @@
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.csproj.AssemblyReference.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.AssemblyInfoInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.AssemblyInfo.cs
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.csproj.CoreCompileInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.sourcelink.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\bin\Debug\net8.0\Practico02_Back.deps.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\bin\Debug\net8.0\Practico02_Back.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\bin\Debug\net8.0\Practico02_Back.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\refint\Practico02_Back.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\Practico02_Back.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico02\Practico02_Back\obj\Debug\net8.0\ref\Practico02_Back.dll

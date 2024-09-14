@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Ejercicio2.2.csproj",
+      "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Ejercicio2.2.csproj",
       "projectName": "Ejercicio2.2",
-      "projectPath": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Ejercicio2.2.csproj",
+      "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Ejercicio2.2.csproj",
       "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\obj\\",
+      "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

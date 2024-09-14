@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
+      "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
       "projectName": "ProduccionBack",
-      "projectPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
+      "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
       "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\obj\\",
+      "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

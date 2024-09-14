@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
+      "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
       "projectName": "Clase_10_09",
-      "projectPath": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
+      "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
       "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\obj\\",
+      "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

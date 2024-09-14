@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\",
+  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|c:\\users\\ignaa\\source\\repos\\clase_10_09\\clase_10_09\\controllers\\fechacontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\clase_10_09\\clase_10_09\\controllers\\fechacontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|solutionrelative:clase_10_09\\controllers\\fechacontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|c:\\users\\ignaa\\source\\repos\\clase_10_09\\clase_10_09\\models\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\clase_10_09\\clase_10_09\\models\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EB141A-228E-4852-95E4-CE211C06DD88}|Clase_10_09\\Clase_10_09.csproj|solutionrelative:clase_10_09\\models\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FechaController2.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Controllers\\FechaController2.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Controllers\\FechaController2.cs",
               "RelativeDocumentMoniker": "Clase_10_09\\Controllers\\FechaController2.cs",
-              "ToolTip": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Controllers\\FechaController2.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Controllers\\FechaController2.cs",
               "RelativeToolTip": "Clase_10_09\\Controllers\\FechaController2.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T19:40:59.995Z",
               "EditorCaption": ""
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Fecha.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Models\\Fecha.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Models\\Fecha.cs",
               "RelativeDocumentMoniker": "Clase_10_09\\Models\\Fecha.cs",
-              "ToolTip": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Models\\Fecha.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Models\\Fecha.cs",
               "RelativeToolTip": "Clase_10_09\\Models\\Fecha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

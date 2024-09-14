@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mXdVhoPbtE8=",
+  "dgSpecHash": "xSNv8e8rdfg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignaa\\source\\repos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
+  "projectFilePath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Clase_10_09\\Clase_10_09\\Clase_10_09.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignaa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ignaa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8298B2D3-E377-49AE-90D8-5B4AA0A91437}|Practico02\\Practico02WebApi.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8298B2D3-E377-49AE-90D8-5B4AA0A91437}|Practico02\\Practico02WebApi.csproj|solutionrelative:practico02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\services\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\services\\iarticuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\entities\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\entities\\dtos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico02\\practico02_back\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD25492-8CB9-485B-8EB7-8FD07897B63D}|Practico02_Back\\Practico02_Back.csproj|solutionrelative:practico02_back\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Practico02\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Practico02\\Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:54:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Services\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Services\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Services\\ArticuloService.cs",
+              "RelativeToolTip": "Practico02_Back\\Services\\ArticuloService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:52:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Services\\IArticuloService.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Services\\IArticuloService.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Services\\IArticuloService.cs",
+              "RelativeToolTip": "Practico02_Back\\Services\\IArticuloService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:51:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Data\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\ArticuloRepository.cs",
+              "RelativeToolTip": "Practico02_Back\\Data\\ArticuloRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:40:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Data\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\IArticuloRepository.cs",
+              "RelativeToolTip": "Practico02_Back\\Data\\IArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:33:49.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Data\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Data\\DBHelper.cs",
+              "RelativeToolTip": "Practico02_Back\\Data\\DBHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:21:59.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArticuloDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Entities\\DTOs\\ArticuloDTO.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Entities\\DTOs\\ArticuloDTO.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Entities\\DTOs\\ArticuloDTO.cs",
+              "RelativeToolTip": "Practico02_Back\\Entities\\DTOs\\ArticuloDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:17:36.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Entities\\Articulo.cs",
+              "RelativeDocumentMoniker": "Practico02_Back\\Entities\\Articulo.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico02\\Practico02_Back\\Entities\\Articulo.cs",
+              "RelativeToolTip": "Practico02_Back\\Entities\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:18:43.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

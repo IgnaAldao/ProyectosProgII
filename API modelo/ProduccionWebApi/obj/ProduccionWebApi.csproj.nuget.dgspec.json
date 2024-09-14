@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj": {}
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj": {
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
+        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
         "projectName": "ProduccionBack",
-        "projectPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
+        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj",
         "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\obj\\",
+        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj": {
+    "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj",
         "projectName": "ProduccionWebApi",
-        "projectPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj",
+        "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionWebApi\\ProduccionWebApi.csproj",
         "packagesPath": "C:\\Users\\ignaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionWebApi\\obj\\",
+        "outputPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj": {
-                "projectPath": "C:\\Users\\ignaa\\OneDrive\\Escritorio\\API modelo\\API modelo\\ProduccionBack\\ProduccionBack.csproj"
+              "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj": {
+                "projectPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\API modelo\\ProduccionBack\\ProduccionBack.csproj"
               }
             }
           }

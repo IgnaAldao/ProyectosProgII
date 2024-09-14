@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\",
+  "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|c:\\users\\ignaa\\source\\repos\\ejercicio2.2\\ejercicio2.2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\ejercicio2.2\\ejercicio2.2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|solutionrelative:ejercicio2.2\\controllers\\cashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|c:\\users\\ignaa\\source\\repos\\ejercicio2.2\\ejercicio2.2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\ejercicio2.2\\ejercicio2.2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A977071-7A21-4B7D-9294-AC06D6BB1311}|Ejercicio2.2\\Ejercicio2.2.csproj|solutionrelative:ejercicio2.2\\models\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CashController.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Controllers\\CashController.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Controllers\\CashController.cs",
               "RelativeDocumentMoniker": "Ejercicio2.2\\Controllers\\CashController.cs",
-              "ToolTip": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Controllers\\CashController.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Controllers\\CashController.cs",
               "RelativeToolTip": "Ejercicio2.2\\Controllers\\CashController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T17:45:39.41Z",
               "EditorCaption": ""
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Moneda.cs",
-              "DocumentMoniker": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Models\\Moneda.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Models\\Moneda.cs",
               "RelativeDocumentMoniker": "Ejercicio2.2\\Models\\Moneda.cs",
-              "ToolTip": "C:\\Users\\ignaa\\source\\repos\\Ejercicio2.2\\Ejercicio2.2\\Models\\Moneda.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Ejercicio2.2\\Ejercicio2.2\\Models\\Moneda.cs",
               "RelativeToolTip": "Ejercicio2.2\\Models\\Moneda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
