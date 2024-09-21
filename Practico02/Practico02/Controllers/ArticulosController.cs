@@ -47,7 +47,7 @@ namespace Practico02WebApi.Controllers
             }
         }
 
-        [HttpDelete("/{id}")]
+        [HttpDelete("articulos/{id}")]
         public IActionResult Delete(int id)
         {
             try

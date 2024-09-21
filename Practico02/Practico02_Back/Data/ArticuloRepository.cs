@@ -56,7 +56,7 @@ namespace Practico02_Back.Data
             try
             {
                 List<SqlParameter> parameters = new List<SqlParameter>();
-                parameters.Add(new SqlParameter("id_articulo", id));
+                parameters.Add(new SqlParameter("@id_articulo", id));
                 if(DBHelper.GetInstance().ExecuteSQL("SP_ELIMINAR_ARTICULO", parameters) < 1)
                 {
                     aux = false;
