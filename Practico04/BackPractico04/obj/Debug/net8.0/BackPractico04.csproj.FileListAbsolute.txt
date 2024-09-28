@@ -1,0 +1,15 @@
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\bin\Debug\net8.0\BackPractico04.deps.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\bin\Debug\net8.0\BackPractico04.runtimeconfig.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\bin\Debug\net8.0\BackPractico04.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\bin\Debug\net8.0\BackPractico04.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.csproj.AssemblyReference.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.AssemblyInfoInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.AssemblyInfo.cs
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.csproj.CoreCompileInputs.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.sourcelink.json
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\refint\BackPractico04.dll
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.pdb
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\BackPractico04.genruntimeconfig.cache
+C:\Users\ignaa\Documents\facu\TUP\ProgII\Proyectos\Practico04\BackPractico04\obj\Debug\net8.0\ref\BackPractico04.dll
