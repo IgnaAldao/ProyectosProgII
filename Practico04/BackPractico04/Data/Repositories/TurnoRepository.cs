@@ -39,12 +39,20 @@ namespace BackPractico04.Data.Repositories
 
         public TTurno? GetById(int id)
         {
-            return _context.TTurnos.Find(id);
+            return _context.TTurnos.Include(t => t.TDetallesTurnos)
+                .ThenInclude(d => d.IdServicioNavigation)
+                .FirstOrDefault(t => t.Id == id);
         }
 
-        public void Update(TTurno turno)
+        public void Update(int id, TurnoCreateDao turnoUpdate)
         {
-            _context.TTurnos.Update(turno);
+            var turnoExistente = _context.TTurnos.Find(id);
+            if(turnoExistente != null)
+            {
+                turnoExistente.Fecha = turnoUpdate.Fecha;
+                turnoExistente.Hora = turnoUpdate.Hora;
+                turnoExistente.Cliente = turnoUpdate.Cliente;
+            }
             _context.SaveChanges();
         }
 

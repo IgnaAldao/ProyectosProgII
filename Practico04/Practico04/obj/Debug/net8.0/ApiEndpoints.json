@@ -27,6 +27,22 @@
   },
   {
     "ContainingType": "Practico04.Controllers.DetallesController",
+    "Method": "Put",
+    "RelativePath": "api/Detalles",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detalleTurno",
+        "Type": "BackPractico04.Data.Models.Daos.DetalleCreateDao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Practico04.Controllers.DetallesController",
     "Method": "Get",
     "RelativePath": "api/Detalles/{idTurno}/{idServicio}",
     "HttpMethod": "GET",
@@ -41,32 +57,6 @@
       {
         "Name": "idServicio",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Practico04.Controllers.DetallesController",
-    "Method": "Put",
-    "RelativePath": "api/Detalles/{idTurno}/{idServicio}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idTurno",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "idServicio",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "detalleTurno",
-        "Type": "BackPractico04.Data.Models.TDetallesTurno",
         "IsRequired": true
       }
     ],
@@ -195,7 +185,7 @@
   },
   {
     "ContainingType": "Practico04.Controllers.TurnosController",
-    "Method": "Put",
+    "Method": "UpdateTurno",
     "RelativePath": "api/Turnos/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -207,8 +197,8 @@
         "IsRequired": true
       },
       {
-        "Name": "turno",
-        "Type": "BackPractico04.Data.Models.TTurno",
+        "Name": "turnoDao",
+        "Type": "BackPractico04.Data.Models.Daos.TurnoCreateDao",
         "IsRequired": true
       }
     ],

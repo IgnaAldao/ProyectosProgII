@@ -14,6 +14,6 @@ namespace BackPractico04.Data.Services
         bool DeleteDetalle(int idTurno, int idServicio);
         List<TDetallesTurno>? GetAllDetalles();
         TDetallesTurno? GetDetalleById(int idTurno, int idServicio);
-        void UpdateDetalle(TDetallesTurno detalleTurno);
+        void UpdateDetalle(DetalleCreateDao detalleDao);
     }
 }

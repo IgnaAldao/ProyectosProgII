@@ -43,9 +43,14 @@ namespace BackPractico04.Data.Repositories
                 .FirstOrDefault(d => d.IdTurno == idTurno && d.IdServicio == idServicio);
         }
 
-        public void Update(TDetallesTurno detalleTurno)
+        public void Update(DetalleCreateDao detalleDao)
         {
-            _context.TDetallesTurnos.Update(detalleTurno);
+            var detalleExistente = _context.TDetallesTurnos
+                .FirstOrDefault(d => d.IdTurno == detalleDao.IdTurno && d.IdServicio == detalleDao.IdServicio);
+            if(detalleExistente != null)
+            {
+                detalleExistente.Observaciones = detalleDao.Observaciones;
+            }
             _context.SaveChanges();
         }
 

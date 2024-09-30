@@ -14,6 +14,6 @@ namespace BackPractico04.Data.Repositories
         bool Delete(int id);
         List<TTurno>? GetAll();
         TTurno? GetById(int id);
-        void Update(TTurno turno);
+        void Update(int id, TurnoCreateDao turnoUpdate);
     }
 }

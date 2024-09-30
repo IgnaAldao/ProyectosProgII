@@ -37,9 +37,9 @@ namespace BackPractico04.Data.Services
             return _turnoRepository.GetById(id);
         }
 
-        public void UpdateTurno(TTurno turno)
+        public void UpdateTurno(int id, TurnoCreateDao turnoUpdate)
         {
-            _turnoRepository.Update(turno);
+            _turnoRepository.Update(id, turnoUpdate);
         }
     }
 }

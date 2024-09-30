@@ -14,6 +14,6 @@ namespace BackPractico04.Data.Services
         bool DeleteTurno(int id);
         List<TTurno>? GetAllTurnos();
         TTurno? GetTurnoById(int id);
-        void UpdateTurno(TTurno turno);
+        void UpdateTurno(int id, TurnoCreateDao turnoUpdate);
     }
 }

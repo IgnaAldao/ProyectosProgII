@@ -71,23 +71,28 @@ namespace Practico04.Controllers
 
         // PUT: api/turnos/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] TTurno turno)
+        public IActionResult UpdateTurno(int id, [FromBody] TurnoCreateDao turnoDao)
         {
             try
             {
-                if (turno == null || turno.Id != id || !ModelState.IsValid)
-                    return BadRequest("Datos inválidos.");
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest("Datos incorrectos!!");
+                }
 
-                var existingTurno = _turnoService.GetTurnoById(id);
-                if (existingTurno == null)
+                var turnoExistente = _turnoService.GetTurnoById(id);
+                if (turnoExistente == null)
+                {
                     return NotFound("El turno no existe.");
+                }
 
-                _turnoService.UpdateTurno(turno);
+                _turnoService.UpdateTurno(id, turnoDao);
+
                 return Ok("Turno actualizado!!");
             }
             catch (Exception)
             {
-                return StatusCode(500, "Error interno, intente nuevamente.");
+                return StatusCode(500, "Error interno, intentalo nuevamente");
             }
         }
 

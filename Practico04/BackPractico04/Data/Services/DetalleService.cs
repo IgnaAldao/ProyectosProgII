@@ -37,9 +37,9 @@ namespace BackPractico04.Data.Services
             return _detalleRepository.GetById(idTurno, idServicio);
         }
 
-        public void UpdateDetalle(TDetallesTurno detalleTurno)
+        public void UpdateDetalle(DetalleCreateDao detalleDao)
         {
-            _detalleRepository.Update(detalleTurno);
+            _detalleRepository.Update(detalleDao);
         }
     }
 }
