@@ -57,11 +57,13 @@ namespace Practico04.Controllers
         {
             try
             {
-                if (turno == null || !ModelState.IsValid)
+                if (turno == null)
                     return BadRequest("Datos inválidos.");
 
-                _turnoService.CreateTurno(turno);
-                return Ok("Turno creado!!");
+                var creado = _turnoService.CreateTurno(turno);
+                if (creado != null)
+                    return Ok("Turno creado!!");
+                return BadRequest("Ya existe un turno para la fecha y hora ingresado..");
             }
             catch (Exception)
             {

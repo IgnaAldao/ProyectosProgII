@@ -17,16 +17,28 @@ namespace BackPractico04.Data.Repositories
         {
             _context = context;
         }
-        public void Create(TurnoCreateDao turnoDao)
+        public TTurno? Create(TurnoCreateDao turnoDao)
         {
-            TTurno turno = new TTurno()
+            var turnoExiste = _context.TTurnos.Where(t => t.Hora == turnoDao.Hora && t.Fecha == turnoDao.Fecha).ToList();
+            if (turnoExiste.Count == 0) 
             {
-                Fecha = turnoDao.Fecha,
-                Hora = turnoDao.Hora,
-                Cliente = turnoDao.Cliente,
-            };
-            _context.TTurnos.Add(turno);
-            _context.SaveChanges();
+                var fechaMin = DateTime.Now.AddDays(1).ToString();
+                var fechaMax = DateTime.Now.AddDays(45);
+                if(turnoDao.Fecha != null || !String.IsNullOrEmpty(turnoDao.Fecha))
+                    if(DateTime.Parse(turnoDao.Fecha) >= DateTime.Parse(fechaMin) && DateTime.Parse(turnoDao.Fecha) <= fechaMax) 
+                    fechaMin = turnoDao.Fecha;
+                
+                TTurno turno = new TTurno()
+                {
+                    Fecha = fechaMin,
+                    Hora = turnoDao.Hora,
+                    Cliente = turnoDao.Cliente,
+                };
+                _context.TTurnos.Add(turno);
+                _context.SaveChanges();
+                return turno;
+            }
+            return null;
         }
 
         public List<TTurno>? GetAll()

@@ -10,7 +10,7 @@ namespace BackPractico04.Data.Services
 {
     public interface IDetalleService
     {
-        void CreateDetalle(DetalleCreateDao detalleTurno);
+        bool CreateDetalle(DetalleCreateDao detalleTurno);
         bool DeleteDetalle(int idTurno, int idServicio);
         List<TDetallesTurno>? GetAllDetalles();
         TDetallesTurno? GetDetalleById(int idTurno, int idServicio);

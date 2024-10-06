@@ -17,9 +17,9 @@ namespace BackPractico04.Data.Services
             _turnoRepository = turnoRepository;
         }
 
-        public void CreateTurno(TurnoCreateDao turno)
+        public TTurno? CreateTurno(TurnoCreateDao turno)
         {
-            _turnoRepository.Create(turno);
+            return _turnoRepository.Create(turno);
         }
 
         public bool DeleteTurno(int id)

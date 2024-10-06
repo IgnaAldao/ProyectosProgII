@@ -10,7 +10,7 @@ namespace BackPractico04.Data.Repositories
 {
     public interface ITurnoRepository
     {
-        void Create(TurnoCreateDao turno);
+        TTurno? Create(TurnoCreateDao turno);
         bool Delete(int id);
         List<TTurno>? GetAll();
         TTurno? GetById(int id);

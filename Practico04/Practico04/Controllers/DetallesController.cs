@@ -61,8 +61,9 @@ namespace Practico04.Controllers
                 if (detalleTurno == null || !ModelState.IsValid)
                     return BadRequest("Datos inválidos.");
 
-                _detalleTurnoService.CreateDetalle(detalleTurno);
-                return Ok("Detalle creado con exito!!");
+                if(_detalleTurnoService.CreateDetalle(detalleTurno))
+                    return Ok("Detalle creado con exito!!");
+                return BadRequest("Ya hay cargado este servicio para el turno..");
             }
             catch (Exception)
             {

@@ -17,9 +17,9 @@ namespace BackPractico04.Data.Services
             _detalleRepository = detalleRepository;
         }
 
-        public void CreateDetalle(DetalleCreateDao detalleTurno)
+        public bool CreateDetalle(DetalleCreateDao detalleTurno)
         {
-            _detalleRepository.Create(detalleTurno);
+            return _detalleRepository.Create(detalleTurno);
         }
 
         public bool DeleteDetalle(int idTurno, int idServicio)

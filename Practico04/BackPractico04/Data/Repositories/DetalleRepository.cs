@@ -18,16 +18,21 @@ namespace BackPractico04.Data.Repositories
             _context = context;
         }
 
-        public void Create(DetalleCreateDao detalleTurnoDao)
+        public bool Create(DetalleCreateDao detalleTurnoDao)
         {
-            TDetallesTurno detalleTurno = new TDetallesTurno()
+            var detalleExiste = _context.TDetallesTurnos.Where(d => d.IdTurno == detalleTurnoDao.IdTurno && d.IdServicio == detalleTurnoDao.IdServicio).ToList();
+            if(detalleExiste.Count() == 0 )
             {
-                IdTurno = detalleTurnoDao.IdTurno,
-                IdServicio = detalleTurnoDao.IdServicio,
-                Observaciones = detalleTurnoDao.Observaciones
-            };
-            _context.TDetallesTurnos.Add(detalleTurno);
-            _context.SaveChanges();
+                TDetallesTurno detalleTurno = new TDetallesTurno()
+                {
+                    IdTurno = detalleTurnoDao.IdTurno,
+                    IdServicio = detalleTurnoDao.IdServicio,
+                    Observaciones = detalleTurnoDao.Observaciones
+                };
+                _context.TDetallesTurnos.Add(detalleTurno);
+                return _context.SaveChanges() > 0;
+            }
+            return false;
         }
 
         public List<TDetallesTurno> GetAll()

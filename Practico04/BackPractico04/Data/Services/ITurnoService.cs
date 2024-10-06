@@ -10,7 +10,7 @@ namespace BackPractico04.Data.Services
 {
     public interface ITurnoService
     {
-        void CreateTurno(TurnoCreateDao turno);
+        TTurno? CreateTurno(TurnoCreateDao turno);
         bool DeleteTurno(int id);
         List<TTurno>? GetAllTurnos();
         TTurno? GetTurnoById(int id);

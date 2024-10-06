@@ -10,7 +10,7 @@ namespace BackPractico04.Data.Repositories
 {
     public interface IDetalleRepository
     {
-        void Create(DetalleCreateDao detalleTurno);
+        bool Create(DetalleCreateDao detalleTurno);
         bool Delete(int idTurno, int idServicio);
         List<TDetallesTurno>? GetAll();
         TDetallesTurno? GetById(int idTurno, int idServicio);
