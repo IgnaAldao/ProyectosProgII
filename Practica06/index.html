@@ -1,59 +1,95 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <title>Gestión de Turnos</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <title>Practica 06</title>
 </head>
 <body>
-    <main>
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-6 barra-izquierda">
-                    <div>
-                        <img src="./img/imagen-usuario.jpg" class="rounded-circle d-block mx-auto" style="height: 50px; padding-top: 10px;">
-                        <h6 style="text-align: center;">usuario</h6>
-                    </div>
-                    <div>
-                        <h5 style="padding-top: 20px; padding-left: 10px;">MENU</h5>
-                        <nav class="navbar navbar-expand-lg "  style="background-color: rgb(19, 110, 170);">
-                            <div class="container-fluid" >
-                                <div class="collapse navbar-collapse" id="navbarNav">
-                                    <ul class="navbar-nav flex-column">
-                                        <li class="nav-item">
-                                            <a class="nav-link active" aria-current="page" href="#">Inicio</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link" href="#">Nosotros</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link" href="#">Servicios</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link" href="#">Sacar Turno</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </nav>
-                    </div>  
+
+    <div class="d-flex" id="wrapper">
+        <div class="bg-primary border-right" id="sidebar-wrapper">
+            <div>
+                <img src="./img/imagen-usuario.jpg" class="rounded-circle d-block mx-auto" style="height: 50px; padding-top: 10px;">
+                <h6 style="text-align: center;">usuario</h6>
+            </div>
+            <div class="sidebar-heading text-white">GESTION DE TURNOS</div>
+            <div class="list-group list-group-flush">
+                <a href="#" class="list-group-item list-group-item-action bg-primary text-white" onclick="showSection('dashboard')">Inicio</a>
+                <a href="#" class="list-group-item list-group-item-action bg-primary text-white" onclick="showSection('consultar')">Consultar turnos</a>
+                <a href="#" class="list-group-item list-group-item-action bg-primary text-white" onclick="showSection('nuevo')">Nuevo turno</a>
+            </div>
+        </div>
+
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="main-content active" id="dashboard">
+                    <h1 class="mt-4">Dashboard</h1>
+                    <h3>Total de turnos por cliente:</h3>
+                    <table class="table table-striped mt-3">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Cliente</th>
+                                <th scope="col">Total de Turnos</th>
+                            </tr>
+                        </thead>
+                        <tbody id="totalTurnos">
+                        </tbody>
+                    </table>
                 </div>
-                <div class="col-6 barra-derecha">
-                    <h2>DASHBOARD</h2>
+
+                <div class="main-content" id="consultar">
+                    <h1 class="mt-4">Consultar Turnos</h1>
+                    <table class="table table-hover mt-3">
+                        <thead class="thead-light">
+                            <tr>
+                                <th scope="col">ID</th>
+                                <th scope="col">FECHA</th>
+                                <th scope="col">HORA</th>
+                                <th scope="col">CLIENTE</th>
+                            </tr>
+                        </thead>
+                        <tbody id="turnosTable">
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="main-content" id="nuevo">
+                    <h1 class="mt-4">Nuevo turno</h1>
+                    <form id="turnoForm" class="mt-3">
+                        <div class="mb-3">
+                            <label for="fecha" class="form-label">Fecha:</label>
+                            <input type="date" class="form-control" id="fecha" name="fecha" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="hora" class="form-label">Hora:</label>
+                            <input type="time" class="form-control" id="hora" name="hora" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="cliente" class="form-label">Cliente:</label>
+                            <select id="cliente" class="form-select" name="cliente" required>
+                                <option value="Nacho">Nacho</option>
+                                <option value="Santiago">Santiago</option>
+                                <option value="Sandra">Sandra</option>
+                                <option value="Tomas">Tomas</option>
+                                <option value="Mario">Mario</option>
+                                <option value="Valentina">Valentina</option>
+                                <option value="Andres 3">Andres</option>
+                                <option value="Ricardo 3">Ricardo</option>
+                                <option value="Pilar 3">Pilar</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Registrar Turno</button>
+                    </form>
                 </div>
             </div>
         </div>
-    </main>
-    <div class="footer">
-        <footer>@2024</footer>
     </div>
-</body>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-    crossorigin="anonymous"></script>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+<footer>@2024 Tecnicatura En Programacion</footer>
 </html>

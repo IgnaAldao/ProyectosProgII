@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\practico04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|solutionrelative:practico04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\practico04\\practico04.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|solutionrelative:practico04\\practico04.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\practico04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B130BF61-5A94-4BF6-827F-3979576F69B1}|Practico04\\Practico04.csproj|solutionrelative:practico04\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\repositories\\turnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\models\\tturno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\services\\turnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\services\\iturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|c:\\users\\ignaa\\documents\\facu\\tup\\progii\\proyectos\\practico04\\backpractico04\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E6D6B27-1C11-4BB2-A2A2-7A84FCB888B7}|BackPractico04\\BackPractico04.csproj|solutionrelative:backpractico04\\data\\repositories\\iturnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +54,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Practico04",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Practico04.csproj",
+              "RelativeDocumentMoniker": "Practico04\\Practico04.csproj",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Practico04.csproj",
+              "RelativeToolTip": "Practico04\\Practico04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T19:13:53.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Program.cs",
+              "RelativeDocumentMoniker": "Practico04\\Program.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Program.cs",
+              "RelativeToolTip": "Practico04\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:10:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Practico04\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Practico04\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:07:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ITurnoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\BackPractico04\\Data\\Repositories\\ITurnoRepository.cs",
               "RelativeDocumentMoniker": "BackPractico04\\Data\\Repositories\\ITurnoRepository.cs",
@@ -55,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TurnosController.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\Practico04\\Controllers\\TurnosController.cs",
               "RelativeDocumentMoniker": "Practico04\\Controllers\\TurnosController.cs",
@@ -63,8 +113,7 @@
               "RelativeToolTip": "Practico04\\Controllers\\TurnosController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwEUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:12:40.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T20:12:40.827Z"
             },
             {
               "$type": "Document",
@@ -81,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ITurnoService.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\BackPractico04\\Data\\Services\\ITurnoService.cs",
               "RelativeDocumentMoniker": "BackPractico04\\Data\\Services\\ITurnoService.cs",
@@ -89,25 +138,24 @@
               "RelativeToolTip": "BackPractico04\\Data\\Services\\ITurnoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T20:12:23.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T20:12:23.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TurnoRepository.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\BackPractico04\\Data\\Repositories\\TurnoRepository.cs",
               "RelativeDocumentMoniker": "BackPractico04\\Data\\Repositories\\TurnoRepository.cs",
               "ToolTip": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\BackPractico04\\Data\\Repositories\\TurnoRepository.cs",
               "RelativeToolTip": "BackPractico04\\Data\\Repositories\\TurnoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T19:58:15.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "TTurno.cs",
               "DocumentMoniker": "C:\\Users\\ignaa\\Documents\\facu\\TUP\\ProgII\\Proyectos\\Practico04\\BackPractico04\\Data\\Models\\TTurno.cs",
               "RelativeDocumentMoniker": "BackPractico04\\Data\\Models\\TTurno.cs",
@@ -115,8 +163,7 @@
               "RelativeToolTip": "BackPractico04\\Data\\Models\\TTurno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T19:49:43.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T19:49:43.81Z"
             }
           ]
         }
